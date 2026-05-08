@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Liwen (Suri) Su 👋
 
 I am a Computer Science and Data Science student at NYU.  
 I am interested in data analysis, AI, machine learning, AIGC, and game-related AI tools.
