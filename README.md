@@ -57,8 +57,8 @@ I am a Computer Science and Data Science student at NYU.
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=suri-zip&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img width="36%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suri-zip&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=suri-zip&show_icons=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suri-zip&layout=compact" />
 </p>
 
 ---
