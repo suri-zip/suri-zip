@@ -56,9 +56,11 @@ I am a Computer Science and Data Science student at NYU.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suri-zip&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=suri-zip&show_icons=true&theme=tokyonight&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suri-zip&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suri-zip&layout=compact&theme=tokyonight)
+
+![Snake animation](https://raw.githubusercontent.com/suri-zip/suri-zip/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
