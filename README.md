@@ -10,7 +10,7 @@ I am a Computer Science and Data Science student at NYU.
 - 🤖 Interested in AIGC, games, and crocheting
 - 🎮 Previously worked on AI-generated image workflows for games
 - 📊 Experience with data analysis, Lora training, and fairness auditing
-- 🌱 Currently learning more about machine learning and AI product development
+- 🌱 Currently learning more about machine learning, AI, and game development
 
 ---
 
@@ -23,17 +23,11 @@ I am a Computer Science and Data Science student at NYU.
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 
-### Machine Learning / Data Science
+### Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
@@ -60,9 +54,3 @@ I am a Computer Science and Data Science student at NYU.
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=suri-zip&show_icons=true&include_all_commits=true" />
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suri-zip&layout=compact" />
 </p>
-
----
-
-## Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suri13511@gmail.com)
